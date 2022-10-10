@@ -1,0 +1,7 @@
+section{background-color: #F07167;}
+body{background-color: #0081A7;color:#FDFCDC;margin-left: 350px;margin-right: 350px;}
+h1{text-align: center;color: #FED9B7}
+
+.TOPNAV{text-align: center;background-color: #00AFB9;padding:10px}
+.TOPNAV a {color: #FED9B7;text-align: center;padding: 5px 6px;font-size: 20px;background-color: #0081A7;}
+.TOPNAV a:hover {background-color: #F07167}

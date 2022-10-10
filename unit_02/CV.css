@@ -1,10 +1,10 @@
-body {margin:400px;background-color:DodgerBlue}
-section {background-color:MediumSeaGreen;}
+body {margin-left:400px;margin-right:400px;background-color:DodgerBlue}
+section {background-color:MediumSeaGreen; border:5px outset; margin:10px}
 img{float:right;}
-
+.paragraph{text-align: center}
 
 @media screen and (max-width: 1300px) {
 
-  body{margin:100px;}
+  body{margin-left:400px;margin-right:400px;}
 
 }

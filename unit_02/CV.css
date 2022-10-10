@@ -1,0 +1,10 @@
+body {margin:400px;background-color:DodgerBlue}
+section {background-color:MediumSeaGreen;}
+img{float:right;}
+
+
+@media screen and (max-width: 1300px) {
+
+  body{margin:100px;}
+
+}
